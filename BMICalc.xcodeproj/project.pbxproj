@@ -16,7 +16,7 @@
 
 /* Begin PBXFileReference section */
 		1ECF55161F4D1CD5003ECA29 /* BMICalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BMICalc.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1ECF55191F4D1CD5003ECA29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1ECF55191F4D1CD5003ECA29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = BMICalc/AppDelegate.swift; sourceTree = "<group>"; };
 		1ECF551B1F4D1CD5003ECA29 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1ECF551E1F4D1CD5003ECA29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1ECF55201F4D1CD5003ECA29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -40,6 +40,7 @@
 			children = (
 				1ECF55181F4D1CD5003ECA29 /* BMICalc */,
 				1ECF55171F4D1CD5003ECA29 /* Products */,
+				1ECF55191F4D1CD5003ECA29 /* AppDelegate.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,7 +55,6 @@
 		1ECF55181F4D1CD5003ECA29 /* BMICalc */ = {
 			isa = PBXGroup;
 			children = (
-				1ECF55191F4D1CD5003ECA29 /* AppDelegate.swift */,
 				1ECF551B1F4D1CD5003ECA29 /* ViewController.swift */,
 				1ECF551D1F4D1CD5003ECA29 /* Main.storyboard */,
 				1ECF55201F4D1CD5003ECA29 /* Assets.xcassets */,
